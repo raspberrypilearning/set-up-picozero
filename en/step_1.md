@@ -27,3 +27,4 @@ Connect your Rasberry Pi Pico to the computer you will use to program it.
  
 ![picozero in search results.](images/tools-manage-packages.png)
 
+See the ![Introduction to the Raspberry Pi Pico Guide](https://projects.raspberrypi.org/en/pathways/pico-intro) for more information. 
