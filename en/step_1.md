@@ -1,59 +1,29 @@
-## Introduction
+## Plug in your Raspberry Pi Pico
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+Connect your Rasberry Pi Pico to the computer you will use to program it. 
 
-### What you will make
+![USB cable plugged in to Raspberry Pi Pico.](images/pico-top-plug.png)
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+![USB cable plugged in to computer.](images/plug-in-pico.png)
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+## Install or update MicroPython
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
++ Open the Thonny editor
++ Look at the bottom right-hand corner
++ Check it says 'MicroPython (Raspberry Pi Pico)'
++ If it doesn't then select 'MicroPython (Raspberry Pi Pico)'
++ You might get prompted to install the firmware.
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+## Add picozero
 
-+ A computer or tablet capable of running Scratch 3
++ Go to 'Tools > Manage packages'
++ Type 'picozero' into the search bar
++ Click 'Search on PyPI'
 
-### Software
+![Thonny install packages window with search box.](images/search-picozero.png)
 
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
+ + Click on 'picozero' in the search results
+ + Click on 'install'
+ 
+![picozero in search results.](images/tools-manage-packages.png)
 
-### Downloads
-
-+ Download the project [starter file](https://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](https://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
