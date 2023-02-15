@@ -1,20 +1,20 @@
-## Plug in your Raspberry Pi Pico
+## Brancher ton Raspberry Pi Pico
 
-Connect your Rasberry Pi Pico to the computer you will use to program it.
+Connecte ton Raspberry Pi Pico à l'ordinateur que tu utiliseras pour le programmer.
 
 ![USB cable plugged in to Raspberry Pi Pico.](images/pico-top-plug.png)
 
 ![USB cable plugged in to computer.](images/plug-in-pico.png)
 
-## Install or update MicroPython
+## Installer ou mettre à jour MicroPython
 
-+ Open the Thonny editor
-+ Look at the bottom right-hand corner
-+ Check it says 'MicroPython (Raspberry Pi Pico)'
-+ If it doesn't then select 'MicroPython (Raspberry Pi Pico)'
-+ You might get prompted to install the firmware.
++ Ouvre l'éditeur Thonny
++ Regarde en bas à droite
++ Vérifie qu'il indique "MicroPython (Raspberry Pi Pico)"
++ Si ce n'est pas le cas, sélectionne "MicroPython (Raspberry Pi Pico)"
++ Tu seras peut-être invité à installer le micrologiciel.
 
-## Add picozero
+## Ajouter picozero
 
 + Go to 'Tools > Manage packages'
 + Type 'picozero' into the search bar
