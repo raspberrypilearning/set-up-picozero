@@ -16,7 +16,7 @@ Connecte ton Raspberry Pi Pico à l'ordinateur que tu utiliseras pour le program
 
 ## Ajouter picozero
 
-+ Allez dans 'Outils > Gérer les paquets'
++ Va dans 'Outils > Gérer les paquets'
 + Tape 'picozero' dans la barre de recherche
 + Clique sur 'Rechercher sur PyPI'
 
