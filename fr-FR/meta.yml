@@ -1,0 +1,10 @@
+---
+title: Configurer picozero
+hero_image: images/banner.png
+description: Installer le module picozero sur ton Raspberry Pi Pico avec Thonny.
+version: 4
+listed: false
+copyedit: false
+last_tested: "2022-05-19"
+steps:
+  - title: Configurer picozero
