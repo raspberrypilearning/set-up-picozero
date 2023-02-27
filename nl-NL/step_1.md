@@ -1,30 +1,30 @@
-## Plug in your Raspberry Pi Pico
+## Sluit je Raspberry Pi Pico aan
 
-Connect your Rasberry Pi Pico to the computer you will use to program it.
+Sluit je Rasberry Pi Pico aan op de computer die je gaat gebruiken om hem te programmeren.
 
-![USB cable plugged in to Raspberry Pi Pico.](images/pico-top-plug.png)
+![USB-kabel aangesloten op de Raspberry Pi Pico.](images/pico-top-plug.png)
 
-![USB cable plugged in to computer.](images/plug-in-pico.png)
+![USB-kabel aangesloten op computer.](images/plug-in-pico.png)
 
-## Install or update MicroPython
+## Installeer of update MicroPython
 
-+ Open the Thonny editor
-+ Look at the bottom right-hand corner
-+ Check it says 'MicroPython (Raspberry Pi Pico)'
-+ If it doesn't then select 'MicroPython (Raspberry Pi Pico)'
-+ You might get prompted to install the firmware.
++ Open de Thonny editor
++ Kijk naar de rechterbenedenhoek
++ Controleer of er 'MicroPython (Raspberry Pi Pico)' staat
++ Als dit niet het geval is, selecteer je 'MicroPython (Raspberry Pi Pico)'
++ Mogelijk word je gevraagd om de firmware te installeren.
 
-## Add picozero
+## Voeg picozero toe
 
-+ Go to 'Tools > Manage packages'
-+ Type 'picozero' into the search bar
-+ Click 'Search on PyPI'
++ Ga naar 'Hulpmiddelen > Pakketten beheren'
++ Typ 'picozero' in de zoekbalk
++ Klik 'Search on PyPI'
 
-![Thonny install packages window with search box.](images/search-picozero.png)
+![Thonny installatiepakketten-venster met zoekbalk.](images/search-picozero.png)
 
- + Click on 'picozero' in the search results
- + Click on 'install'
+ + Klik op picozero in de zoekresultaten
+ + Klik op 'Installeren'
 
-![picozero in search results.](images/tools-manage-packages.png)
+![picozero in zoekresultaten.](images/tools-manage-packages.png)
 
-See the [Introduction to the Raspberry Pi Pico Guide](https://projects.raspberrypi.org/en/pathways/pico-intro){:target="_blank"} for more information. 
+Zie de [Inleiding tot de Raspberry Pi Pico Gids](https://projects.raspberrypi.org/en/pathways/pico-intro){:target="_blank"} voor meer informatie. 
