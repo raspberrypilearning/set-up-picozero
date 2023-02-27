@@ -1,0 +1,10 @@
+---
+title: Stel picozero in
+hero_image: images/banner.png
+description: Installeer het picozero pakket op je Raspberry Pi Pico met Thonny.
+version: 4
+listed: false
+copyedit: false
+last_tested: "2022-05-19"
+steps:
+  - title: Stel picozero in
