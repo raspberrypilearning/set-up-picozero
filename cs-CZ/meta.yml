@@ -1,0 +1,10 @@
+title: Set up picozero
+hero_image: images/banner.png
+description: Install the picozero package on your Raspberry Pi Pico with Thonny.
+version: 4
+listed: false
+copyedit: false
+last_tested: "2022-05-19"
+steps:
+  - 
+    title: Set up picozero
